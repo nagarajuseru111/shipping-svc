@@ -38,7 +38,7 @@ public class shippingController {
 
     @GetMapping("/book_Shippment")
     public String bookRegister() {
-        return "shippment_Booking";
+        return "Shippment_Booking";
     }
 
 
